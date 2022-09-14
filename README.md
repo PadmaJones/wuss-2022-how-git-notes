@@ -9,11 +9,11 @@
 
 - Repo (created using the GitHub web interface, or using the Git CLI with `git init`):
 
-- Fork (typically created using the GitHub web interface only): 
+- Fork (typically created using the GitHub web interface only): Fork first to make a copy
 
 - Local Clone (typically created using the Git CLI with `git clone` only): 
 
-- Branch (created using the GitHub web interface, or using the Git CLI with `git branch` or `git checkout`): 
+- Branch (created using the GitHub web interface, or using the Git CLI with `git branch` or `git checkout`): A branch is a copy you can use in the repo.
 
 
 ##### Managing Code Edits:
